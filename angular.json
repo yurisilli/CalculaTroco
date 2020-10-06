@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CalculaTroco"
+    }
+  },
+  "defaultProject": "CalculaTroco",
+  "cli": {
+    "analytics": "db2766fe-4de9-40c0-90fc-c85e84da869e"
+  }
 }
